@@ -3,11 +3,11 @@
 
 Roop
 
-[![打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dream80/roop_colab/blob/main/roop_v1_3.ipynb)
+[![打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/albert-coder-007/roop_colab/blob/main/roop_v1_3.ipynb)
 
 FaceFusion
 
-[![打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dream80/roop_colab/blob/main/tonyff_last.ipynb)
+[![打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/albert-coder-007/roop_colab/blob/main/tonyff_last.ipynb)
 
 
 
@@ -17,8 +17,8 @@ FaceFusion
 
 ![demo](new.jpg)   
 
-# 原项目地址[roop](https://github.com/s0md3v/roop/)
-![demo-gif](https://github.com/s0md3v/roop/blob/main/demo.gif)  
+# 原项目地址[roop](https://github.com/albert-coder-007/roop/)
+![demo-gif](https://github.com/albert-coder-007/roop/blob/main/demo.gif)  
 
 
 ![demo](cmp.gif)  
